@@ -1,0 +1,10 @@
+dict={"brand":"audi","model":"q3","year":2000}
+print(dict)
+dict["color"]="black"
+print(dict)
+dict.pop("model")
+print(dict)
+a=dict.g("brand")
+b=dict.get("brand")
+print(a)
+print(b)
