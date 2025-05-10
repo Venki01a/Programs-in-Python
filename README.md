@@ -1,16 +1,7 @@
-# Programs-in-Python
-
 <h1 align="center">🐍 Programs in Python 🚀</h1>
 
 <p align="center">
   A collection of essential Python programs for beginners and intermediate learners. This repository is a growing hub of fundamental concepts, logic-building exercises, and real-world problem-solving using Python.
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3.11-blue.svg" alt="Python Version"/>
-  <img src="https://img.shields.io/github/forks/your-username/programs-in-python?style=social" alt="Forks"/>
-  <img src="https://img.shields.io/github/stars/your-username/programs-in-python?style=social" alt="Stars"/>
-  <img src="https://img.shields.io/github/license/your-username/programs-in-python" alt="License"/>
 </p>
 
 ---
@@ -71,5 +62,4 @@
 
 ---
 
-## 📂 Folder Structure
 
